@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.InstagramClone" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="fontFamily">@font/akaya_telivigala</item>
+
+        <!-- Customize your theme attributes here -->
+    </style>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.InstagramClone" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="fontFamily">@font/akaya_telivigala</item>
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+</resources>
